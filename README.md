@@ -1,2 +1,7 @@
 # POO_TADS_IFPR
-Repositório criado para uso na disciplina de Programação Orientada a Objetos - TADS - IFPR Cascavel.
+Aluno
+  - Rafael Cambito Maciel
+Curso
+  - Tecnologia em Análise e Desenvolvimento de Sistemas - IFPR CascaveL
+Disciplina
+  - Programação Orientada a Objetos
