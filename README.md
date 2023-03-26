@@ -1,9 +1,8 @@
-# POO_TADS_IFPR
+# Aluno
+* `<Rafael Cambito Maciel>` 
 
-
-Aluno
-<Rafael Cambito Maciel>
-Curso
-<Tecnologia em Análise e Desenvolvimento de Sistema>
-Disciplina
-<Programação Orientada a Objetos>
+# Curso
+* `<Tecnologia em Análise e Desenvolvimento de Sistema>`
+  
+# Disciplina
+* `<Programação Orientada a Objetos>`
