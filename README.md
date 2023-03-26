@@ -1,8 +1,8 @@
 # Aluno
-* `<Rafael Cambito Maciel>` 
+* `Rafael Cambito Maciel` 
 
 # Curso
-* `<Tecnologia em Análise e Desenvolvimento de Sistema>`
+* `Tecnologia em Análise e Desenvolvimento de Sistema`
   
 # Disciplina
-* `<Programação Orientada a Objetos>`
+* `Programação Orientada a Objetos`
