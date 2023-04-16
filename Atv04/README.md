@@ -19,19 +19,14 @@ Criado variavél para receber os gastos do trimestre e posteriormente print do r
 
 //==============================================================================</br>
 
-import javax.swing.JOptionPane;
-
-public class Atv03 {
+public class BalancoTrimestral {
 
     public static void main(String[] args) {
-        String primeira_prova = JOptionPane.showInputDialog("Informe a nota da primeira prova: "); // Recebe o valor referente a nota da primeira prova
-        double primeira_nota = Double.parseDouble(primeira_prova);
-        String segunda_prova = JOptionPane.showInputDialog("Informe a nota da segunda prova:"); // Recebe o valor referente a nota da segunda prova
-        double segunda_nota = Double.parseDouble(segunda_prova);
-        String trabalho = JOptionPane.showInputDialog("Digite a nota do trabalho:"); // Recebe a nota do trabalho.
-        double nota_trabalho = Double.parseDouble(trabalho);
-        double media = (primeira_nota + segunda_nota + nota_trabalho) / 3; // Cálcudo de média dos valores. Soma os valores e divide pela quantidade de lançamentos
-        JOptionPane.showMessageDialog(null, "A média é: " + media); // Mostra o resultado da média. Utiliza-se o método showMessageDialog de JOptionPane.
+        double gastosJaneiro = 30000.00;
+        double gastosFevereiro = 33030.77;
+        double gastosMarco = 23899.01;
+        double gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
+        System.out.println("Total de gastos no trimestre = R$ " + gastosTrimestre);
     }
 }
 
