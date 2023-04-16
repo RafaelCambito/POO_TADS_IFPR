@@ -16,14 +16,15 @@ Inserido print do resultado da média mensal.</br>
 public class Atv05 {
 
 
-   public static void main(String[] args) { //</br>
-        double gastosJaneiro = 30000.00;//</br>
-        double gastosFevereiro = 33030.77;//</br>
-        double gastosMarco = 23899.01;//</br>
-        double gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;//</br>
-        double mediaMensal = gastosTrimestre / 3; // Variável mediaMensal recebe gastosTrimestre e divide pela quantidade de meses.//</br>
-        System.out.println("Total de gastos no trimestre = R$ " + gastosTrimestre);//</br>
-        System.out.println("Valor da média mensal: R$ " + mediaMensal);//</br>
+   public static void main(String[] args) {
+        double gastosJaneiro = 30000.00;
+        double gastosFevereiro = 33030.77;
+        double gastosMarco = 23899.01;
+        double gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
+        double mediaMensal = gastosTrimestre / 3; // Variável mediaMensal recebe gastosTrimestre e divide pela quantidade de meses.
+        
+        System.out.println("Total de gastos no trimestre = R$ " + gastosTrimestre);
+        System.out.println("Valor da média mensal: R$ " + mediaMensal);
         
     }
 }
