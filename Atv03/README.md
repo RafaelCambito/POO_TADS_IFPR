@@ -1,16 +1,15 @@
 Atv03
 
-- Atividade proposta e código utilizado:
-
-- Atividade:
+- Atividade proposta:
 Usando a classe JOptionPane para entrada de dados, crie uma classe que receba a nota de duas provas e de um trabalho. Calcule e mostre a média.
 
 - Realização da atividade:
 Importado import javax.swing.JOptionPane
 Recebido valores das duas provas e realizado cálculo de média através da divisão dos valores recebidos pela quantidade de lançamentos.
 
+- Código utilizado:
 
-//======================================= Código utilizado =======================================
+//==============================================================================
 import javax.swing.JOptionPane;
 
 public class Atv03 {
@@ -27,4 +26,4 @@ public class Atv03 {
     }
 }
 
-//======================================= Fim do código =======================================
+//==============================Fim do código ==================================
