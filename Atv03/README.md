@@ -1,4 +1,4 @@
-Atv03
+**Atv03**
 
 **OBS = Consegui executar essa atividade normalmente em minha máquina utilizando o NetBeans, contudo ao executar no ambiente Jupyter disponibilizado pelo professor, ocorre o seguinte erro: ERROR: java.awt.HeadlessException: 
 No X11 DISPLAY variable was set, but this program performed an operation which requires it.**
@@ -7,7 +7,7 @@ No X11 DISPLAY variable was set, but this program performed an operation which r
 Usando a classe JOptionPane para entrada de dados, crie uma classe que receba a nota de duas provas e de um trabalho. Calcule e mostre a média.
 
 - Realização da atividade:</br>
-Importado import javax.swing.JOptionPane
+Realizado import javax.swing.JOptionPane
 Recebido valores das duas provas e realizado cálculo de média através da divisão dos valores recebidos pela quantidade de lançamentos.
 
 - Código utilizado:</br>
