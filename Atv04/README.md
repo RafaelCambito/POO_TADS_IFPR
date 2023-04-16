@@ -10,9 +10,9 @@ d) Crie uma variável chamada gastosTrimestre e inicialize-a com a soma das outr
 e) Exiba a variável gastosTrimestre.</br>
 
 - Realização da atividade:</br>
-Criado classe BalancoTrimestral definida como main;
-Criado variáveis gastosJaneiro, gastosFevereiro e gastosMarco recebendo os valores repassados no exercício.
-Criado variavél para receber os gastos do trimestre e posteriormente print do resultado.
+Criado classe BalancoTrimestral definida como main;</br>
+Criado variáveis gastosJaneiro, gastosFevereiro e gastosMarco recebendo os valores repassados no exercício.</br>
+Criado variavél para receber os gastos do trimestre e posteriormente print do resultado.</br>
 
 
 - Código utilizado:</br>
