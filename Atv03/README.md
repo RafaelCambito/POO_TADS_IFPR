@@ -9,7 +9,7 @@ Recebido valores das duas provas e realizado cálculo de média através da divi
 
 - Código utilizado:
 
-//==============================================================================
+//==============================================================================</br>
 
 import javax.swing.JOptionPane;
 
