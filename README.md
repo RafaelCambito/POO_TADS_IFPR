@@ -11,3 +11,4 @@ Atv02 - [Atv02](https://github.com/RafaelCambito/POO_TADS_IFPR/blob/main/Atv02/N
 Atv03 - [Atv03](https://github.com/RafaelCambito/POO_TADS_IFPR/blob/main/Atv03/Notebook/)<br/>
 Atv04 - [Atv04](https://github.com/RafaelCambito/POO_TADS_IFPR/blob/main/Atv04/Notebook/)<br/>
 Atv05 - [Atv05](https://github.com/RafaelCambito/POO_TADS_IFPR/blob/main/Atv05/Notebook/)<br/>
+Atv06 - [Atv06](https://github.com/RafaelCambito/POO_TADS_IFPR/blob/main/Atv06/Notebook/)<br/>
