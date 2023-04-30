@@ -1,9 +1,14 @@
- Atv01
+**Atv01**
 
-Atividade proposta e código utilizado:
-
-Atividade:
+- Atividade proposta:</br>
 Crie uma classe em Java que seja capaz de apresentar a soma de todos os argumentos inteiros ou reais recebidos. Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou  exceções.
+
+- Realização da atividade:</br>
+Criado nova classe chamada Atv01;</br>
+Definido Scanner para usuário informar os valores</br>
+Definido Scanner para usuário informar os valores</br>
+Definido variável para soma dos valores</br>
+Inserido print do resultado da soma.</br>
 
 //======================================= Código utilizado =======================================
 import java.util.Scanner;
