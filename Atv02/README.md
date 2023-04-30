@@ -1,13 +1,17 @@
-Atv02
+**Atv02**
 
-Atividade proposta e código utilizado:
-
-Atividade:
+- Atividade proposta:</br>
 Crie uma classe em Java que realize cada uma das seguintes tarefas:
-
 a) Exibir a mensagem "Informe um inteiro: ", deixando o cursor na mesma linha;
 b) Atribuir o produto de variáveis b e c para a variável a;
 c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
+
+- Realização da atividade:</br>
+Criado nova classe chamada Atv02;</br>
+Exibido mensagem para informar valor inteiro e deixar na mesma linha o cursor;</br>
+Atribuido A recebendo multiplicação de B e C;</br>
+Inserido comentário sobre exemplo de folha de pagamento.</br>
+
 
 //======================================= Código utilizado =======================================
 import java.util.Scanner;
